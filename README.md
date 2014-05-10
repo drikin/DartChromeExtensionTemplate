@@ -1,3 +1,5 @@
+This is stub project for developing Chrome extension using Dart lang.
+You can start your extension using this repository as template.
 
 Before
 ======
