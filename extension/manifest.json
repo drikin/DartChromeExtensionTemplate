@@ -1,0 +1,26 @@
+{
+  "name":           "__MSG_extName__",
+  "version":        "0.0.0",
+  "description":    "__MSG_extDescription__",
+  "default_locale": "en",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.dart.precompiled.js"]
+  },
+  "icons": {
+    "16":  "icon.png",
+    "48":  "icon.png",
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "default_icon": {
+        "19": "icon.png",
+        "38": "icon.png"
+    },
+    "default_title": "__MSG_extName__"
+  },
+  "permissions":    [
+    "webNavigation", "tabs"
+  ],
+  "manifest_version": 2
+}

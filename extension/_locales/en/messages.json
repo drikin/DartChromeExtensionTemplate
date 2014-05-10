@@ -1,0 +1,10 @@
+{
+  "extName":  {
+    "description": "The extension name.",
+    "message": "Set Your Extension Name"
+  },
+  "extDescription": {
+    "description": "The extension description.",
+    "message": "Set your Extension Description"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName":  {
+    "description": "The extension name.",
+    "message": "拡張機能の名前"
+  },
+  "extDescription": {
+    "description": "The extension description.",
+    "message": "拡張機能の説明"
+  }
+}
